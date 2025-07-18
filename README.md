@@ -14,7 +14,7 @@ Click the Live Demo tab above for a visual tour of the COVID-19 Misinformation D
 
 For full details, see the [Research Paper (PDF)](https://github.com/PeterOzo/CoAID-COVID19-Misinformation-Detection/blob/main/COVID19_Misinformation_Detection_Research.pdf)
 
-[CoAID Intelligence Platform](https://peterchika.shinyapps.io/covid_misinformation_detector/) 
+[CoAID Intelligence Platform](https://peterchika3254.shinyapps.io/covid-misinformation-detector/) 
 
 <img width="1851" height="803" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/ef7a24ca-6a8b-4d5d-9181-5a7ba59a76a7" />
 
