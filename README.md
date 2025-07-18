@@ -12,7 +12,7 @@
 
 Click the Live Demo tab above for a visual tour of the COVID-19 Misinformation Detection Platform!
 
-For full details, see the [Research Paper (PDF)](https://github.com/PeterOzo/CoAID-COVID19-Misinformation-Detection/blob/main/COVID19_Misinformation_Detection_Research.pdf)
+For full details, see the [Research Paper (PDF)](https://github.com/PeterOzo/NLP-COVID-19-Misinformation-Detection-System/blob/main/CSC696_Project_Report_Peter_Ozo-ogueji.pdf)
 
 [CoAID Intelligence Platform](https://peterchika3254.shinyapps.io/covid-misinformation-detector/) 
 
