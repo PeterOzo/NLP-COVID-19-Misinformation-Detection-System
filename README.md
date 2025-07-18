@@ -16,13 +16,20 @@ For full details, see the [Research Paper (PDF)](https://github.com/PeterOzo/NLP
 
 [CoAID Intelligence Platform](https://peterchika3254.shinyapps.io/covid-misinformation-detector/) 
 
-<img width="1851" height="803" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/ef7a24ca-6a8b-4d5d-9181-5a7ba59a76a7" />
+<img width="1894" height="778" alt="image" src="https://github.com/user-attachments/assets/c4f19810-0ff6-42ef-ad33-7ae3b4b44d10" />
 
-<img width="1005" height="671" alt="Classification Interface" src="https://github.com/user-attachments/assets/8e01f83e-15a1-4021-b9e8-1df0379bf1e1" />
 
-<img width="909" height="869" alt="Research Methodology" src="https://github.com/user-attachments/assets/12c6c0cc-dc87-4f88-bca7-604430e39bb5" />
+<img width="883" height="256" alt="image" src="https://github.com/user-attachments/assets/56e44cef-ff48-48db-848c-b97e5332cfe7" />
 
-<img width="940" height="795" alt="Performance Analytics" src="https://github.com/user-attachments/assets/73ed520a-59be-4084-9c92-600ecc91d96d" />
+
+<img width="1901" height="719" alt="image" src="https://github.com/user-attachments/assets/ddb5b310-3856-4b71-821b-8a5681068d86" />
+
+
+<img width="1906" height="837" alt="image" src="https://github.com/user-attachments/assets/b3a56335-26a3-4510-8233-d2c9083e2334" />
+
+<img width="1603" height="720" alt="image" src="https://github.com/user-attachments/assets/dc033496-3395-4ab9-be02-1647fac68f9b" />
+
+
 
 CoAID Intelligence is a cutting-edge COVID-19 misinformation detection platform that leverages advanced transformer-based NLP models to analyze news articles and social media content with industry-leading accuracy. Built with fine-tuned RoBERTa and LLaMA models on the comprehensive CoAID dataset, this production-ready system delivers reliable misinformation detection for public health organizations, social media platforms, news outlets, and research institutions.
 
