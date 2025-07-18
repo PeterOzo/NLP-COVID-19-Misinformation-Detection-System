@@ -1,6 +1,6 @@
 # CoAID Intelligence - COVID-19 Misinformation Detection Platform: Advanced NLP with Fine-tuned Transformer Models
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Shiny%20Cloud-brightgreen)](https://peterchika.shinyapps.io/covid_misinformation_detector/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Shiny%20Cloud-brightgreen)](https://peterchika3254.shinyapps.io/covid-misinformation-detector/)
 [![R](https://img.shields.io/badge/R-4.3+-blue.svg)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![RoBERTa](https://img.shields.io/badge/RoBERTa-Transformer-orange.svg)](https://huggingface.co/transformers/)
