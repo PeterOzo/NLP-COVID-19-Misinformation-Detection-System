@@ -19,7 +19,7 @@ For full details, see the [Research Paper (PDF)](https://github.com/PeterOzo/NLP
 <img width="1894" height="778" alt="image" src="https://github.com/user-attachments/assets/c4f19810-0ff6-42ef-ad33-7ae3b4b44d10" />
 
 
-<img width="883" height="256" alt="image" src="https://github.com/user-attachments/assets/56e44cef-ff48-48db-848c-b97e5332cfe7" />
+<img width="1701" height="211" alt="image" src="https://github.com/user-attachments/assets/994889e4-e3e1-48ff-9f25-a4858659eaeb" />
 
 
 <img width="1901" height="719" alt="image" src="https://github.com/user-attachments/assets/ddb5b310-3856-4b71-821b-8a5681068d86" />
